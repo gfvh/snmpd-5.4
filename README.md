@@ -8,11 +8,9 @@ Official 5.4.3 ubuntu package can't be installed working normal way since so muc
 
 Howto: 
 
-* Be sure to uninstall current snmpd pls make proper backups if needed
+* Be sure to uninstall current snmpd pls make proper backups of conf if needed
 
-* This package needs following packages from deb repos:
-
-libsnmp-perl libsnmp30 python-netsnmp libsnmp-base libsnmp-perl perl-modules
+* This package needs following packages from deb repos: libsnmp-perl libsnmp30 python-netsnmp libsnmp-base libsnmp-perl perl-modules
 
 * Download snmpd-5.4.4.deb
 
