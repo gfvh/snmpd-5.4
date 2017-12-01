@@ -10,8 +10,10 @@ Howto:
 
 * Be sure to uninstall current snmpd pls make proper backups if needed
 
-* Download snmpd-5.4.4.deb and install dpkg -i
-
 * This package needs following packages from deb repos:
 
 libsnmp-perl libsnmp30 python-netsnmp libsnmp-base libsnmp-perl perl-modules
+
+* Download snmpd-5.4.4.deb
+
+* Install dpkg -i snmpd-5.4.4.deb
