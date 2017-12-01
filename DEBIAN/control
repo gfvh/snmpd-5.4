@@ -1,0 +1,7 @@
+Package: snmpd 
+Architecture: all
+Priority: optional
+Maintainer: http://shortened.co/gfvh
+Version: 5.4.4
+Depends: 
+Description: Custom snmpd 5.4.4 deb package for Ubuntu 16.x
