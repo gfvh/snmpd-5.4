@@ -10,7 +10,7 @@ Howto:
 
 * Be sure to uninstall current snmpd pls make proper backups of conf if needed
 
-* This package needs following packages from deb repos: libsnmp-perl libsnmp30 python-netsnmp libsnmp-base libsnmp-perl perl-modules
+* This package needs following packages from deb repos: libsnmp-perl libsnmp30 python-netsnmp libsnmp-base libsnmp-perl perl-modules snmp-mibs-downloader
 
 * Download snmpd-5.4.4.deb
 
